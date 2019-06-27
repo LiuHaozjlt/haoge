@@ -31,10 +31,9 @@
 </template>
 
 <script>
-import path from 'path' // 
+import path from 'path' //
 import { generateTitle } from '@/utils/i18n'
-//import 'element-ui/lib/theme-chalk/index.css';
-//泽丽的不要了，删掉import  '../style/element-ui.scss'这个组  两个屏幕 我发了一个文件给你，你下载了吗？ 放到styles里面了没看到啊
+// import 'element-ui/lib/theme-chalk/index.css';
 
 export default {
   name: 'SidebarItem',
